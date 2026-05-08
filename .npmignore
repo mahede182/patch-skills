@@ -1,0 +1,28 @@
+# Tests
+tests/
+*.test.js
+
+# Development
+.vscode/
+.idea/
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Documentation not needed in package
+CONTRIBUTING.md
+CHANGELOG.md
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
